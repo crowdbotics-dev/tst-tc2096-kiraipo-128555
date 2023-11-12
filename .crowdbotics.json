@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.5.1",
+    "cookiecutter_context": {
+      "project_name": "TST-TC2096-kiraipormr",
+      "project_slug": "tst_tc2096_kiraipo_128555",
+      "project_dash_slug": "tst-tc2096-kiraipo-128555",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "automation20.submaster3@crowdbotics.com",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
